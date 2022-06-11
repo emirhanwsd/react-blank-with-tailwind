@@ -1,6 +1,6 @@
 # 🖥️ React Blank with Tailwind
 
-## Install
+## Installation
 
 ```shell
 gh repo clone emirhanwsd/react-blank-with-tailwind
