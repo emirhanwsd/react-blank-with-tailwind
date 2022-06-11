@@ -1,1 +1,1 @@
-# react-blank-with-tailwind
+# React Blank with Tailwind
